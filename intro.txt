@@ -1,0 +1,3 @@
+My name is Olumide.
+I am learning DevOps and Git.
+I am building my DevOps engineering skills.
