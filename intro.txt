@@ -1,0 +1,4 @@
+This project demonstrates my Git and GitHub DevOps learning journ
+My name is Olumide.
+I am learning DevOps and Git.
+I am building my DevOps engineering skills.
